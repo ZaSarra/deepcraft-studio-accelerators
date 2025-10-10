@@ -65,6 +65,8 @@ M1911_Outdoor_Echo.mp3 by MaxWiley -- https://freesound.org/s/249883/ -- License
 
 Gunshot, Distant, A.wav by InspectorJ -- https://freesound.org/s/417345/ -- License: Attribution 4.0
 
+Other sounds may also be used as can be seen from our master attribution list here https://github.com/Infineon/deepcraft-studio-accelerators/blob/main/AttributionLists/Freesound_Attribution_List.csv
+
 ## Getting Started
 
 Please visit [developer.imagimob.com](https://developer.imagimob.com), where you can read about Imagimob Studio and go through step-by-step tutorials to get you quickly started.
