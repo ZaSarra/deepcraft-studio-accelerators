@@ -1,12 +1,12 @@
-# Baby Cry (Starter Model)
+# Baby Cry (DEEPCRAFT™ Studio Accelerator)
 
 This project is designed to work exclusively with DEEPCRAFT™ Studio. Download it from [here](https://softwaretools.infineon.com/assets/com.ifx.tb.tool.deepcraftstudio)
 
-**NOTE:** This project is the Baby Cry starter model and not the DEEPCRAFT™ Ready Model for Baby Cry Detection. The Ready Model is available on the Imagimob website
+**NOTE:** This project is the Baby Cry Studio Accelerator and not the DEEPCRAFT™ Ready Model for Baby Cry Detection. The Ready Model is available on the Imagimob website
 
 ## Overview
 
-This starter model allows you to build a baby cry detector that can be used on any supported Infineon MCU with a microphone. Everything is included to allow you to expand on the project to bring it to production on your own. 
+This starter project allows you to build a baby cry detector that can be used on any supported Infineon MCU with a microphone. Everything is included to allow you to expand on the project to bring it to production on your own. 
 
 Below you can find code examples about how to deploy the output of this project to any supported Infineon MCU with a microphone.
 
@@ -28,7 +28,7 @@ The project has the following classes:
 
 ## Taking the Project Further
 
-This project is only a starter model and as such some work is needed to further develop this project. Such as including more data from home environments as well as some data You can take the project further in a number of different ways:
+This project is only a starter project and as such some work is needed to further develop this project. Such as including more data from home environments as well as some data You can take the project further in a number of different ways:
 
 1. You can add additional classes to the existing ones by adding the relevant data, for example, children talking, children playing, different ages etc.
 2. Add your own recorded data to the dataset and see if you can improve the performance of the provided model.
