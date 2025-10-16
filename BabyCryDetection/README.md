@@ -2,7 +2,7 @@
 
 This project is designed to work exclusively with DEEPCRAFT™ Studio. Download it from [here](https://softwaretools.infineon.com/assets/com.ifx.tb.tool.deepcraftstudio)
 
-**NOTE:** This project is the Baby Cry Studio Accelerator and not the DEEPCRAFT™ Ready Model for Baby Cry Detection. The Ready Model is available on the Imagimob website
+**NOTE:** This project is the Baby Cry Studio Accelerator and not the DEEPCRAFT™ Ready Model for Baby Cry Detection. The Ready Model is available at [Baby Cry Detection in Infineon Developer Center](https://softwaretools.infineon.com/assets/com.ifx.tb.tool.deepcraftreadymodelforbabycrydetection)
 
 ## Overview
 
